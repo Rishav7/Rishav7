@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rishav7
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rishav
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning NextJs And redux-toolkit.
+- ✔ I’m looking to collaborate on full stack development
+- 📫 How to reach me rajrishav381.rr@gmail.com.
 
 <!---
 Rishav7/Rishav7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
