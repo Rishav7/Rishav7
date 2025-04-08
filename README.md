@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishav
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning NextJs And redux-toolkit.
+- 🌱 I’m currently learning NextJs And react-native.
 - ✔ I’m looking to collaborate on full stack development
 - 📫 How to reach me rajrishav381.rr@gmail.com.
 
